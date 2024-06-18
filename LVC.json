@@ -1,0 +1,7 @@
+{
+  "name": "LVC",
+  "description": "Lex Volkov Token",
+  "image": "https://example.com/mytoken.png",
+  "fixed_supply": true,
+  "decimals": 7
+}
