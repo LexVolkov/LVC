@@ -1,7 +1,7 @@
 {
   "name": "LVC",
   "description": "Lex Volkov Token",
-  "image": "https://example.com/mytoken.png",
+  "image": "https://lexvolkov.github.io/LVC/icon.png",
   "fixed_supply": true,
   "decimals": 7
 }
